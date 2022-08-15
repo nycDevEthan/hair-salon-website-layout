@@ -139,6 +139,7 @@ main > section > div > section > div {
 }
 
 #info {
+  display: flex;
   width: 100%;
   height: 65%;
 }
@@ -168,6 +169,7 @@ main + section section {
 }
 
 #stylists {
+  display: flex;
   width: 100%;
   height: 70%;
   margin-top: 5%;
